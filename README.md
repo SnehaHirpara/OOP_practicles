@@ -65,7 +65,7 @@ Each module is organized concept-wise for clarity, scalability, and professional
 
 ## 📎 Author
 
-**Ashish**  
+**Sneha**  
 Computer Engineering Student  
 
 ---
